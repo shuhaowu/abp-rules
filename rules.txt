@@ -1,0 +1,11 @@
+! language selectors on different sites
+www.canadapost.ca###langSelectModal
+www.canadapost.ca##.reveal-modal-bg
+
+! twitter images
+twitter.com##.is-preview
+twitter.com##.animated-gif
+twitter.com##.js-media-container
+
+! twitter mobile install prompt
+mobile.twitter.com##header > prompt
